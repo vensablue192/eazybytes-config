@@ -1,8 +1,8 @@
-build:
+sbuild:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related rabbit hyma production APIs "
+  message: "Hey, welcome to EazyBank loans related rabbit hyma venkates production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
